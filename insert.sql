@@ -1,0 +1,15 @@
+INSERT INTO users (name, email, gender, date_of_birth) VALUES
+('Amit Sharma', 'amit.sharma@example.com', 'Male', '1990-05-14'),
+('Priya Verma', 'priya.verma@example.com', 'Female', '1992-08-21'),
+('Rahul Mehta', 'rahul.mehta@example.com', 'Male', '1988-12-02'),
+('Sneha Iyer', 'sneha.iyer@example.com', 'Female', '1995-03-10'),
+('Vikas Gupta', 'vikas.gupta@example.com', 'Male', '1987-07-18'),
+('Neha Singh', 'neha.singh@example.com', 'Female', '1993-11-05'),
+('Arjun Patel', 'arjun.patel@example.com', 'Male', '1991-01-25'),
+('Kavita Rao', 'kavita.rao@example.com', 'Female', '1989-09-14'),
+('Rohit Khanna', 'rohit.khanna@example.com', 'Male', '1994-06-30'),
+('Pooja Nair', 'pooja.nair@example.com', 'Female', '1996-02-17'),
+('Suresh Kumar', 'suresh.kumar@example.com', 'Male', '1985-10-09'),
+('Anjali Das', 'anjali.das@example.com', 'Female', '1997-04-28'),
+('Manish Jain', 'manish.jain@example.com', 'Male', '1990-12-12'),
+('Ritu Malhotra', 'ritu.malhotra@example.com', 'Female', '1988-01-03');
